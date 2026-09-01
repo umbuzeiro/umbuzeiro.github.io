@@ -1,0 +1,18 @@
+[
+  {
+    "id": "se_arr",
+    "name": "Subestação Aroeiras",
+    "description": "ARR L1, L2 e L4",
+    "url": "https://mapa.epb.dev/files/se/ARR.geojson",
+    "file": "ARR.geojson",
+    "updated": 1
+  },
+  {
+    "id": "se_bjd",
+    "name": "Subestação Bom Jardim - PE",
+    "description": "BJD1-C5 e BJD2-21C1",
+    "url": "https://mapa.epb.dev/files/se/BJD.geojson",
+    "file": "BJD.geojson",
+    "updated": 1
+  }
+]
