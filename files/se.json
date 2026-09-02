@@ -10,9 +10,17 @@
   {
     "id": "se_bjd",
     "name": "Subestação Bom Jardim - PE",
-    "description": "BJD1-C5 e BJD2-21C1",
+    "description": "BJD1-C5 e BJD2-21C1 (Matinadas)",
     "url": "https://mapa.epb.dev/files/se/BJD.geojson",
     "file": "BJD.geojson",
+    "updated": 1
+  },
+  {
+    "id": "se_sub",
+    "name": "Subestação Surubim - PE",
+    "description": "SUB-C5 (Oratório)",
+    "url": "https://mapa.epb.dev/files/se/SUB.geojson",
+    "file": "SUB.geojson",
     "updated": 1
   }
 ]
