@@ -8603,7 +8603,7 @@
             },
             "properties": {
                 "name": "38620",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8619,7 +8619,7 @@
             },
             "properties": {
                 "name": "38627",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8635,7 +8635,7 @@
             },
             "properties": {
                 "name": "92710",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8651,7 +8651,7 @@
             },
             "properties": {
                 "name": "38622",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8667,7 +8667,7 @@
             },
             "properties": {
                 "name": "38618",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8683,7 +8683,7 @@
             },
             "properties": {
                 "name": "38630",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8699,7 +8699,7 @@
             },
             "properties": {
                 "name": "38626",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8715,7 +8715,7 @@
             },
             "properties": {
                 "name": "38594",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8731,7 +8731,7 @@
             },
             "properties": {
                 "name": "89951",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8747,7 +8747,7 @@
             },
             "properties": {
                 "name": "38625",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8763,7 +8763,7 @@
             },
             "properties": {
                 "name": "95120",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8779,7 +8779,7 @@
             },
             "properties": {
                 "name": "38632",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8795,7 +8795,7 @@
             },
             "properties": {
                 "name": "63357",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8811,7 +8811,7 @@
             },
             "properties": {
                 "name": "38619",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8827,7 +8827,7 @@
             },
             "properties": {
                 "name": "28197",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8843,7 +8843,7 @@
             },
             "properties": {
                 "name": "122931",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8859,7 +8859,7 @@
             },
             "properties": {
                 "name": "117186",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8875,7 +8875,7 @@
             },
             "properties": {
                 "name": "118425",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8891,7 +8891,7 @@
             },
             "properties": {
                 "name": "111900",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8907,7 +8907,7 @@
             },
             "properties": {
                 "name": "79595",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8923,7 +8923,7 @@
             },
             "properties": {
                 "name": "38631",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8939,7 +8939,7 @@
             },
             "properties": {
                 "name": "38628",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8955,7 +8955,7 @@
             },
             "properties": {
                 "name": "38634",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8971,7 +8971,7 @@
             },
             "properties": {
                 "name": "113318",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -8987,7 +8987,7 @@
             },
             "properties": {
                 "name": "89927",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -9003,7 +9003,7 @@
             },
             "properties": {
                 "name": "120295",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -9019,7 +9019,7 @@
             },
             "properties": {
                 "name": "119393",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -9035,7 +9035,7 @@
             },
             "properties": {
                 "name": "123772",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -9051,7 +9051,7 @@
             },
             "properties": {
                 "name": "122622",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -9067,7 +9067,7 @@
             },
             "properties": {
                 "name": "112894",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -9083,7 +9083,7 @@
             },
             "properties": {
                 "name": "38593",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -9099,7 +9099,7 @@
             },
             "properties": {
                 "name": "123660",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -9115,7 +9115,7 @@
             },
             "properties": {
                 "name": "122217",
-                "type": "#mapDaimonET0",
+                "type": "#mapDaimonET",
                 "label-color": "#00ffff"
             }
         },
@@ -9131,7 +9131,7 @@
             },
             "properties": {
                 "name": "DJ_BJD1-C5_FICT",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9147,7 +9147,7 @@
             },
             "properties": {
                 "name": "38614",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9163,7 +9163,7 @@
             },
             "properties": {
                 "name": "38616",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9179,7 +9179,7 @@
             },
             "properties": {
                 "name": "38621",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9195,7 +9195,7 @@
             },
             "properties": {
                 "name": "38617",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9211,7 +9211,7 @@
             },
             "properties": {
                 "name": "111892",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9227,7 +9227,7 @@
             },
             "properties": {
                 "name": "94551",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9243,7 +9243,7 @@
             },
             "properties": {
                 "name": "38624",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9259,7 +9259,7 @@
             },
             "properties": {
                 "name": "95120",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9275,7 +9275,7 @@
             },
             "properties": {
                 "name": "38632",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9291,7 +9291,7 @@
             },
             "properties": {
                 "name": "63357",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9307,7 +9307,7 @@
             },
             "properties": {
                 "name": "120599",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9323,7 +9323,7 @@
             },
             "properties": {
                 "name": "38619",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9339,7 +9339,7 @@
             },
             "properties": {
                 "name": "28197",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9355,7 +9355,7 @@
             },
             "properties": {
                 "name": "122931",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9371,7 +9371,7 @@
             },
             "properties": {
                 "name": "117186",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9387,7 +9387,7 @@
             },
             "properties": {
                 "name": "118425",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9403,7 +9403,7 @@
             },
             "properties": {
                 "name": "111900",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9419,7 +9419,7 @@
             },
             "properties": {
                 "name": "119392",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9435,7 +9435,7 @@
             },
             "properties": {
                 "name": "79595",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9451,7 +9451,7 @@
             },
             "properties": {
                 "name": "38631",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9467,7 +9467,7 @@
             },
             "properties": {
                 "name": "111921",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9483,7 +9483,7 @@
             },
             "properties": {
                 "name": "121462",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9499,7 +9499,7 @@
             },
             "properties": {
                 "name": "89927",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9515,7 +9515,7 @@
             },
             "properties": {
                 "name": "120295",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9531,7 +9531,7 @@
             },
             "properties": {
                 "name": "119393",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9547,7 +9547,7 @@
             },
             "properties": {
                 "name": "123772",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9563,7 +9563,7 @@
             },
             "properties": {
                 "name": "38592",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9579,7 +9579,7 @@
             },
             "properties": {
                 "name": "122622",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9595,7 +9595,7 @@
             },
             "properties": {
                 "name": "112894",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9611,7 +9611,7 @@
             },
             "properties": {
                 "name": "99365",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9627,7 +9627,7 @@
             },
             "properties": {
                 "name": "122216",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9643,7 +9643,7 @@
             },
             "properties": {
                 "name": "38593",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9659,7 +9659,7 @@
             },
             "properties": {
                 "name": "123660",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
@@ -9675,7 +9675,7 @@
             },
             "properties": {
                 "name": "122217",
-                "type": "#mapDaimonChave0",
+                "type": "#mapDaimonChave",
                 "label-color": "#ff0000"
             }
         },
