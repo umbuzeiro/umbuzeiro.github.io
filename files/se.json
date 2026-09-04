@@ -8,6 +8,14 @@
     "updated": 1
   },
   {
+    "id": "se_bqr",
+    "name": "Subestação Boqueirão",
+    "description": "BQR L1, L2, L3 e L4",
+    "url": "https://mapa.epb.dev/files/se/BQR.geojson",
+    "file": "BQR.geojson",
+    "updated": 1
+  },
+  {
     "id": "se_bjd",
     "name": "Subestação Bom Jardim - PE",
     "description": "BJD1-C5 e BJD2-21C1 (Matinadas)",
